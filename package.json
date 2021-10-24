@@ -30,11 +30,11 @@
   "dependencies": {
     "react": "^16.12.0 || ^17.0.0",
     "@ant-design/pro-layout": "^6.5.0",
-    "@formily/antd": "2.0.0-rc.10",
-    "@formily/core": "2.0.0-rc.10",
-    "@formily/react": "2.0.0-rc.10",
-    "@formily/reactive": "2.0.0-rc.10",
-    "@formily/reactive-react": "2.0.0-rc.10",
+    "@formily/antd": "2.0.0-rc.14",
+    "@formily/core": "2.0.0-rc.14",
+    "@formily/react": "2.0.0-rc.14",
+    "@formily/reactive": "2.0.0-rc.14",
+    "@formily/reactive-react": "2.0.0-rc.14",
     "antd": "^4.16.13"
   },
   "devDependencies": {
